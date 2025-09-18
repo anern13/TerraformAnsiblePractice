@@ -64,6 +64,7 @@ This project demonstrates Infrastructure as Code (IaC) using Terraform and Ansib
 ```powershell
 terraform init
 ```
-4. ```powershell
+4. 
+```powershell
 terraform apply 
 ```
